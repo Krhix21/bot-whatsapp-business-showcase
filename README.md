@@ -18,13 +18,13 @@
 > **📢 Importante**: Los repositorios están configurados para **visualización profesional**. El código es visible para demostrar la calidad y arquitectura del proyecto.
 
 ### 🖥️ **Backend API** 
-[![Backend Repo](https://img.shields.io/badge/Backend-Ver%20Arquitectura-green?style=for-the-badge&logo=github)](https://github.com/Krhix21/bot-wp-back)
-[![Lines of Code](https://img.shields.io/badge/Líneas%20de%20Código-5.2K+-brightgreen?style=flat-square)](https://github.com/Krhix21/bot-wp-back)
-[![Commits](https://img.shields.io/badge/Commits-127+-blue?style=flat-square)](https://github.com/Krhix21/bot-wp-back)
+[![Backend Repo](https://img.shields.io/badge/Backend-Ver%20Arquitectura-green?style=for-the-badge&logo=github)](https://github.com/Krhix21/bot-wp-back-view)
+[![Lines of Code](https://img.shields.io/badge/Líneas%20de%20Código-5.2K+-brightgreen?style=flat-square)](https://github.com/Krhix21/bot-wp-back-view)
+[![Commits](https://img.shields.io/badge/Commits-127+-blue?style=flat-square)](https://github.com/Krhix21/bot-wp-back-view)
 
 **Tecnologías y Patrones:**
 - ✅ **Node.js + Express.js** - API REST con arquitectura limpia
-- ✅ **MySQL + Sequelize ORM** - Base de datos optimizada
+- ✅ **PostgresSql + Sequelize ORM** - Base de datos optimizada
 - ✅ **Socket.io** - Comunicación en tiempo real
 - ✅ **WhatsApp Web.js** - Integración oficial WhatsApp
 - ✅ **JWT + Middleware** - Autenticación robusta
@@ -32,9 +32,9 @@
 - ✅ **PM2 + Monitoring** - Gestión de procesos profesional
 
 ### 🎨 **Frontend Dashboard**
-[![Frontend Repo](https://img.shields.io/badge/Frontend-Ver%20Código-red?style=for-the-badge&logo=github)](https://github.com/Krhix21/bot-wp-front)
-[![Lines of Code](https://img.shields.io/badge/Líneas%20de%20Código-3.8K+-brightgreen?style=flat-square)](https://github.com/Krhix21/bot-wp-front)
-[![Components](https://img.shields.io/badge/Componentes-45+-orange?style=flat-square)](https://github.com/Krhix21/bot-wp-front)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-Ver%20Código-red?style=for-the-badge&logo=github)](https://github.com/Krhix21/bot-wp-front-view )
+[![Lines of Code](https://img.shields.io/badge/Líneas%20de%20Código-3.8K+-brightgreen?style=flat-square)](https://github.com/Krhix21/bot-wp-front-view)
+[![Components](https://img.shields.io/badge/Componentes-45+-orange?style=flat-square)](https://github.com/Krhix21/bot-wp-front-view)
 
 **Tecnologías y Arquitectura:**
 - ✅ **Angular 15+ + TypeScript** - SPA moderna y tipada
