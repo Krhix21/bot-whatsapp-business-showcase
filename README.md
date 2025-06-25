@@ -78,7 +78,7 @@ Backend (Node.js)         Frontend (Angular)
 
 ## 🎥 Video Demostración
 
-[![Video Demo](./docs/screenshots/video-thumbnail.png)](https://youtube.com/watch?v=tu-video-demo)
+[![Video Demo](./docs/screenshots/video-thumbnail.png)](https://youtu.be/yfQlJvqpc38)
 *Click para ver la demostración completa del sistema*
 
 ## ✨ Características Principales
@@ -283,7 +283,7 @@ Push to main → GitHub Actions →
 - ✅ **Full Stack Development** - Node.js + Angular
 - ✅ **API REST Design** - Arquitectura escalable
 - ✅ **Real-time Applications** - WebSockets
-- ✅ **Database Design** - MySQL optimizado
+- ✅ **Database Design** - PostgresSql optimizado
 - ✅ **DevOps & CI/CD** - GitHub Actions + PM2
 - ✅ **UI/UX Design** - Angular Material + Responsive
 - ✅ **Third-party Integrations** - WhatsApp API
