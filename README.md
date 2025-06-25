@@ -1,8 +1,8 @@
 # 🤖 Bot WhatsApp Business - Sistema Completo Full Stack
 
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20|%20Express-green?style=for-the-badge&logo=node.js)](https://github.com/Krhix21/bot-wp-back)
-[![Frontend](https://img.shields.io/badge/Frontend-Angular%20|%20TypeScript-red?style=for-the-badge&logo=angular)](https://github.com/Krhix21/bot-wp-front)
-[![Deploy Status](https://img.shields.io/badge/Deploy-Automated%20CI/CD-blue?style=for-the-badge&logo=github-actions)](https://github.com/Krhix21/bot-wp-back/actions)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20|%20Express-green?style=for-the-badge&logo=node.js)](https://github.com/Krhix21/bot-wp-back- view)
+[![Frontend](https://img.shields.io/badge/Frontend-Angular%20|%20TypeScript-red?style=for-the-badge&logo=angular)](https://github.com/Krhix21/bot-wp-front-view)
+[![Deploy Status](https://img.shields.io/badge/Deploy-Automated%20CI/CD-blue?style=for-the-badge&logo=github-actions)](https://github.com/Krhix21/bot-wp-back-view/actions)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 > **Sistema integral de automatización y gestión para WhatsApp Business con dashboard analytics, gestión de proveedores y deployment automatizado. Proyecto Full Stack profesional desarrollado con arquitectura moderna y mejores prácticas.**
