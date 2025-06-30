@@ -118,7 +118,7 @@ Backend (Node.js)         Frontend (Angular)
 ### **Backend Technologies**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
@@ -141,7 +141,7 @@ Backend (Node.js)         Frontend (Angular)
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Angular SPA   │────│   Express API   │────│   MySQL DB      │
+│   Angular SPA   │────│   Express API   │────│  PostgreSql DB  │
 │   (Frontend)    │    │   (Backend)     │    │   (Database)    │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                       │                       │
@@ -155,7 +155,7 @@ Backend (Node.js)         Frontend (Angular)
 
 ### **Prerrequisitos**
 - **Node.js** 18.x o superior
-- **MySQL** 8.x
+- **PostgreSql** 16.x
 - **Angular CLI** 15+
 - **PM2** (para producción)
 
@@ -185,7 +185,7 @@ cp .env.example .env
 ### **3. Base de Datos**
 ```bash
 # Crear BD y ejecutar migraciones
-mysql -u root -p
+psql -u root -p
 CREATE DATABASE bot_whatsapp;
 npm run migrate
 ```
